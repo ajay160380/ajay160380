@@ -11,9 +11,6 @@ Email Me 👉 ✉️ **ajaykumar160380@gmail.com** For Collaboration/Project or 
 - 📫 **How to reach me:** **ajaykumar160380@gmail.com**  
 - 😄 **Pronouns:** Ajay  
 - ⚡ **Fun fact:** I focus on building real projects instead of just watching tutorials
-# 💫 About Me:
-<br>- 🎓 BTech CSE (AI) student | Building AI-powered web applications and solving real-world problems through code<br>- 🔭 I’m currently working on: AI Tutor Web App using Flask and structured learning data  <br>- 👯 I’m looking to collaborate on: AI-based and Web Development projects  <br>- 🤝 I’m looking for help with: Backend development and ML integration  <br>- 🌱 I’m currently learning: Machine Learning, Deep Learning & Full Stack Development  <br>- 💬 Ask me about: Python, Web Development and AI basics  <br>- ⚡ Fun fact: I focus on building real projects instead of just watching tutorials
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajay_vishwakarma._._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-vishwakarma-71649129a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajaykumar160380@gmail.com) 
