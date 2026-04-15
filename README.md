@@ -22,9 +22,6 @@ Email Me 👉 ✉️ **ajaykumar160380@gmail.com** For Collaboration/Project or 
 ![](https://streak-stats.demolab.com/?user=ajay160380&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ajay160380&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ajay160380&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
