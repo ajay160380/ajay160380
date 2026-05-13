@@ -1,16 +1,23 @@
-# 💫 Hi 👋, I'm Ajay Vishwakarma  
-**A passionate AI & Web Developer from India**
+# 💫 Hi 👋, I’m Ajay Vishwakarma
 
-Email Me 👉 ✉️ **ajaykumar160380@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+I’m a B.Tech CSE (AI) student passionate about AI, web development, and building practical projects that improve my skills with every step.
 
-- 🔭 **I’m currently working on:** AI Tutor Web App using Flask and structured learning data  
-- 🌱 **I’m currently learning:** Machine Learning, Deep Learning & Full Stack Development  
-- 👯 **I’m looking to collaborate on:** AI-based and Web Development projects  
-- 🤔 **I’m looking for help with:** Backend development and ML integration  
-- 💬 **Ask me about:** Python, Web Development, AI basics & Collaboration  
-- 📫 **How to reach me:** **ajaykumar160380@gmail.com**  
-- 😄 **Pronouns:** Ajay  
-- ⚡ **Fun fact:** I focus on building real projects instead of just watching tutorials
+🌐 Portfolio: https://ajay160380.github.io/Portfolio/
+
+📧 Email: ajaykumar160380@gmail.com
+
+---
+
+🚀 About Me
+
+* 🔭 Currently working on an AI Tutor Web App using Flask
+* 🌱 Learning Machine Learning, Deep Learning, and Full Stack Development
+* 👯 Interested in collaborating on AI and Web Development projects
+* 💡 Exploring backend development and AI integration in real applications
+* 💬 Ask me about Python, Flask, basic AI concepts, and web development
+* ⚡ I enjoy building projects and learning through hands-on experience
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajay_vishwakarma._._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-vishwakarma-71649129a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajaykumar160380@gmail.com) 
