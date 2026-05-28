@@ -2,7 +2,7 @@
 
 I’m a B.Tech CSE (AI) student passionate about AI, web development, and building practical projects that improve my skills with every step.
 
-🌐 Portfolio: [https://ajay160380.github.io/Portfolio/](https://ajay-portfolio-r176.onrender.com)
+🌐 Portfolio: [See What I'm Building](https://ajay-portfolio-r176.onrender.com)
 
 📧 Email: ajaykumar160380@gmail.com
 
