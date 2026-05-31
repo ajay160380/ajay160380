@@ -82,8 +82,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ajay160380&theme=github-dark-blue&hide_border=true" />
 </p>
-
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay160380&theme=github-dark&hide_border=true&bg_color=00000000" width="100%" />
+</div>
 
 ---
 
