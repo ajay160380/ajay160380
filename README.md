@@ -75,16 +75,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ajay160380&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=ajay160380&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ajay160380&theme=github_dark&hide_border=true&layout=compact" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajay160380&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ajay160380&theme=github-dark&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay160380&theme=github-dark&hide_border=true&bg_color=00000000" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay160380&theme=github-dark&hide_border=true&bg_color=00000000" width="100%" alt="GitHub Activity Graph"/>
 </div>
+
 
 ---
 
