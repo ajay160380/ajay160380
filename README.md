@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ajay160380&theme=github-dark&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ajay160380&theme=github-dark&hide_border=true&timezone=Asia/Kolkata" alt="GitHub Streak Stats"/>
 </p>
 
 <div align="center">
