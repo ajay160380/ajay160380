@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ajay-portfolio-r176.onrender.com"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://ajay-vishwakarmaa.netlify.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ajay-vishwakarma-71649129a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/ajay_vishwakarma._._"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="mailto:ajaykumar160380@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
