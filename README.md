@@ -55,9 +55,6 @@ about_me:
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ajay160380&theme=github-dark&hide_border=true&timezone=Asia/Kolkata" alt="GitHub Streak Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajay160380&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay160380&theme=github-dark&hide_border=true&bg_color=00000000" width="100%" alt="GitHub Activity Graph"/>
